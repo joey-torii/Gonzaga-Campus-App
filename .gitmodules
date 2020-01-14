@@ -1,0 +1,3 @@
+[submodule "GonzagaCampusMapApp"]
+	path = GonzagaCampusMapApp
+	url = https://github.com/nsbien/GonzagaCampusMapApp.git
